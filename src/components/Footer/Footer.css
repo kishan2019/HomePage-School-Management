@@ -1,0 +1,11 @@
+.footer-div {
+    height:3rem;
+    background-color:blue;
+    display: flex;
+    color: white;
+    margin-top: 30px;
+}
+
+.copyright {
+    margin:auto
+}

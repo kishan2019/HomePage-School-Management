@@ -1,0 +1,114 @@
+.image {
+    background-size: cover;
+    width: 100%;
+    height: 32rem;
+    background-image: url("http://www.smartpupils.com/images/Slides/Slide3.png");
+    margin-bottom: 5%;
+    display: flex;
+}
+
+.leftbody {
+    width: 100%;
+    padding-right: 10%;
+
+}
+
+.rightbody {
+    width: 100%;
+}
+
+.item-container {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10% 20% 10%;
+    font-size: 20px;
+}
+
+.large-text {
+    color: #777;
+    font-family: "freight-sans-pro-n3", "freight-sans-pro", sans-serif;
+    font-size: 1.52941em;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+h2.one {
+    color: #444;
+    font-family: "freight-sans-pro-n3", "freight-sans-pro", sans-serif;
+    font-size: 2.47059em;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 0.588235em;
+    margin-top: 0.67em;
+}
+
+.set2 {
+    padding: 0 20% 5% 20%;
+    text-align: center;
+}
+
+h3 {
+    color: #222;
+    font-family: "freight-sans-pro-n4", "freight-sans-pro", sans-serif;
+    font-size: 1.11765em;
+    font-style: normal;
+    font-weight: 400;
+    margin: 19px 0;
+}
+
+p {
+    margin: 17px 0;
+    color: gray;
+}
+
+.set21 {
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.mydiv {
+    padding: 4%;
+}
+
+.functionDetail {
+    text-align: center;
+
+}
+
+p.large-text {
+    color: #777;
+    font-family: "freight-sans-pro-n3", "freight-sans-pro", sans-serif;
+    font-size: 1.52941em;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.4;
+    padding: 0 20% 5% 20%;
+}
+
+.detail{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    width: 100%;
+}
+
+.right{
+    width: 100%;
+}
+
+.singleComponent{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+.item{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.puk {
+    align-items: center;
+}
