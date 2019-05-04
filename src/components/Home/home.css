@@ -112,3 +112,8 @@ p.large-text {
 .puk {
     align-items: center;
 }
+
+.ice{
+    display: flex;
+    justify-content: center;
+}
